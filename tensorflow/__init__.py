@@ -13,8 +13,7 @@
 # limitations under the License.
 # ==============================================================================
 
-# Bring in all of the public TensorFlow interface into this
-# module.
+# Bring in all of the public TensorFlow interface into this module.
 
 from __future__ import absolute_import
 from __future__ import division
